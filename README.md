@@ -2,7 +2,7 @@
 This is a demo mobile application for City Bike of Helsinki
 
 ## Features
-- Responsive design, supporting iOS, Android and, Web
+- Responsive design, supporting iOS, Android, and Web
 - Bottom Tab Navigation
 - Multiple scrolling cards
 - Top Navigation with welcome message and log in button
