@@ -13,7 +13,7 @@ In the project directory you can run:
 
 ### `npx expo start --clear`
 
-## ## To view other Web projects
+## To view other Web projects
 
 Check <https://github.com/Yeasmin1/Web_projects>
 
